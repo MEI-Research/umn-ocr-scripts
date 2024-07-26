@@ -1,4 +1,4 @@
-# Installation instructions: https://www.educative.io/answers/how-to-extract-text-from-an-image-in-python
+# Reference and installation instructions: https://www.educative.io/answers/how-to-extract-text-from-an-image-in-python
 
 import pytesseract
 from PIL import Image
